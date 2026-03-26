@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sr6137&label=Profile%20views&color=0e75b6&style=flat" alt="sr6137" /> </p>
 
-- 🌱 I’m currently learning **UNIX, REACT, C++, Node.js**
+- 🌱 I’m currently learning REACT, Node.js**
 
 - 📫 How to reach me **sheetalrajputvt21@gmail.com**
 
